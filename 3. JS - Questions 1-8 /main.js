@@ -103,6 +103,3 @@ function pow(x, n) {
 }
 
 console.log(Math.pow(4, 2));
-
-
-console.log(country[3])
